@@ -12,3 +12,17 @@ AutiVoyage is a simple and engaging web project designed to offer fun and intera
 - User-friendly interface.  
 - Interactive and visually appealing design.  
 - Fun and educational mini-games suitable for all ages.
+
+## 🚀 Getting Started  
+
+### Prerequisites  
+- A modern web browser (e.g., Chrome, Firefox, Safari).  
+
+### Installation  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/Yasaswi10/AutiVoyage.git  
+2.Navigate to the project directory:
+```bash
+cd AutiVoyage
+3.Open app.html in your preferred web browser to start playing.
