@@ -22,7 +22,7 @@ AutiVoyage is a simple and engaging web project designed to offer fun and intera
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/Yasaswi10/AutiVoyage.git  
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd AutiVoyage
-3.Open app.html in your preferred web browser to start playing.
+3. Open index.html in your preferred web browser to start playing.
